@@ -1,5 +1,5 @@
 
-# <span style="color:rgb(213,80,0)">Kvadratické rovnice</span> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mblaho/KvadratickaRovnica)
+# <span style="color:rgb(213,80,0)">Kvadratické rovnice</span> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mblaho/KvadratickaRovnica&file=Pr01_Teoria.mlx)
 
 **Kvadratická rovnica** je rovnica, v ktorej se vyskytuje jedna neznáma v druhej mocnine. **Základný tvar** kvadratickej rovnice je:
 
