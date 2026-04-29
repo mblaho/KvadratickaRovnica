@@ -1,7 +1,5 @@
 # Kvadratické rovnice
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mblaho/KvadratickaRovnica&file=Teoria.mlx)
-
 **Kvadratická rovnica** je rovnica, v ktorej se vyskytuje jedna neznáma v druhej mocnine. **Základný tvar** kvadratickej rovnice je:
 
  $$ {\mathit{ax}}^2 +bx+c=0 $$ 
